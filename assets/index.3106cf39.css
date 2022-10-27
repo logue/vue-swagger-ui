@@ -1,0 +1,16 @@
+
+[data-v-cef98f34] .h-chip__method {
+  font-size: 0.75rem !important;
+  min-width: 2rem !important;
+  text-align: center !important;
+  height: 1.5rem !important;
+  justify-content: center !important;
+  /*margin-left: 0.5rem;*/
+}
+[data-v-cef98f34] .h-chip__method .v-chip__content {
+  /*margin: 0.5rem 0.5rem 0.5rem 0.5rem !important;*/
+}
+
+.h-server-selector[data-v-2d64e026] {
+  padding: 0.5rem;
+}
